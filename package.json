@@ -1,0 +1,16 @@
+{
+  "name": "44-forkify-recipe-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Forkify Recipe App - Modern Vanilla JavaScript MVC Architecture",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3",
+    "mermaid": "^11.4.1",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  }
+}
